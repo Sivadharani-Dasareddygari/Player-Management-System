@@ -68,9 +68,9 @@ http://localhost:8080/Player-Management-System/add-player.jsp
 ## 📸 Demo
 
 ![Player Management System UI]
-/Servlet-Player/Screenshots/AddPlayer.png
-/Servlet-Player/Screenshots/DisplayPlayers.png
-/Servlet-Player/Screenshots/MainPage.png
+https://github.com/Sivadharani-Dasareddygari/Player-Management-System/blob/main/Screenshots/MainPage.png
+https://github.com/Sivadharani-Dasareddygari/Player-Management-System/blob/main/Screenshots/AddPlayer.png
+https://github.com/Sivadharani-Dasareddygari/Player-Management-System/blob/main/Screenshots/DisplayPlayers.png
 ---
 
 ## 🎯 Use Case
